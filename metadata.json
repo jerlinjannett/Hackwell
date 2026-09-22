@@ -1,0 +1,6 @@
+{
+  "name": "TrustShield AI",
+  "description": "AI-Powered Banking Fraud Detection & Digital Trust Platform with Fraud Fusion Engine and Real-Time Adaptive Security.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
